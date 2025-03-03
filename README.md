@@ -1,0 +1,2 @@
+# .github
+AWS STEM Korea
